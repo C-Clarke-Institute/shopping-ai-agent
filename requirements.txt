@@ -1,0 +1,15 @@
+
+fastapi
+uvicorn
+
+sqlalchemy
+psycopg
+alembic
+
+pydantic
+pydantic-settings
+python-dotenv
+
+langchain
+langchain-openai
+langgraph
